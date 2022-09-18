@@ -65,4 +65,4 @@ int pisano(int m) {
     }
 ```
 # Projects
-* [This cv](https://github.com/l9sik/rsschool-cv/blob/gh_pages/cv.md)
+* [This cv](https://l9sik.github.io/rsschool-cv/cv.md)
