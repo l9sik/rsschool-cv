@@ -1,1 +1,1 @@
-https://l9sik.github.io/rsschool-cv/cv.md
+https://l9sik.github.io/rsschool-cv/
